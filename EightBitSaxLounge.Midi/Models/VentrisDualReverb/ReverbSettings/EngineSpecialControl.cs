@@ -1,6 +1,6 @@
 namespace EightBitSaxLounge.Midi.Models.VentrisDualReverb.ReverbSettings;
 
-public class EngineSpecialControl : VentrisReverbSetting, IMidiControlChangeValuesDiscrete
+public class EngineSpecialControl : VentrisReverbSettingSmooth
 {
     public EngineSpecialControl()
     {
@@ -8,5 +8,4 @@ public class EngineSpecialControl : VentrisReverbSetting, IMidiControlChangeValu
         MidiControlChangeDescription = "Special control parameters for the engine";
         MidiControlChangeId = 20;
     }
-    public List<MidiControlChangeValue> MidiControlChangeValues { get; set; }
 }
