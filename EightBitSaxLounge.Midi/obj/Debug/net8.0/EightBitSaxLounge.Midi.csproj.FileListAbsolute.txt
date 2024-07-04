@@ -1,0 +1,17 @@
+C:\Users\mchel\RiderProjects\1972-midi\EightBitSaxLounge.Midi\bin\Debug\net8.0\EightBitSaxLounge.Midi.exe
+C:\Users\mchel\RiderProjects\1972-midi\EightBitSaxLounge.Midi\bin\Debug\net8.0\EightBitSaxLounge.Midi.deps.json
+C:\Users\mchel\RiderProjects\1972-midi\EightBitSaxLounge.Midi\bin\Debug\net8.0\EightBitSaxLounge.Midi.runtimeconfig.json
+C:\Users\mchel\RiderProjects\1972-midi\EightBitSaxLounge.Midi\bin\Debug\net8.0\EightBitSaxLounge.Midi.dll
+C:\Users\mchel\RiderProjects\1972-midi\EightBitSaxLounge.Midi\bin\Debug\net8.0\EightBitSaxLounge.Midi.pdb
+C:\Users\mchel\RiderProjects\1972-midi\EightBitSaxLounge.Midi\obj\Debug\net8.0\EightBitSaxLounge.Midi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mchel\RiderProjects\1972-midi\EightBitSaxLounge.Midi\obj\Debug\net8.0\EightBitSaxLounge.Midi.AssemblyInfoInputs.cache
+C:\Users\mchel\RiderProjects\1972-midi\EightBitSaxLounge.Midi\obj\Debug\net8.0\EightBitSaxLounge.Midi.AssemblyInfo.cs
+C:\Users\mchel\RiderProjects\1972-midi\EightBitSaxLounge.Midi\obj\Debug\net8.0\EightBitSaxLounge.Midi.csproj.CoreCompileInputs.cache
+C:\Users\mchel\RiderProjects\1972-midi\EightBitSaxLounge.Midi\obj\Debug\net8.0\EightBitSaxLounge.Midi.dll
+C:\Users\mchel\RiderProjects\1972-midi\EightBitSaxLounge.Midi\obj\Debug\net8.0\refint\EightBitSaxLounge.Midi.dll
+C:\Users\mchel\RiderProjects\1972-midi\EightBitSaxLounge.Midi\obj\Debug\net8.0\EightBitSaxLounge.Midi.pdb
+C:\Users\mchel\RiderProjects\1972-midi\EightBitSaxLounge.Midi\obj\Debug\net8.0\EightBitSaxLounge.Midi.genruntimeconfig.cache
+C:\Users\mchel\RiderProjects\1972-midi\EightBitSaxLounge.Midi\obj\Debug\net8.0\ref\EightBitSaxLounge.Midi.dll
+C:\Users\mchel\RiderProjects\1972-midi\EightBitSaxLounge.Midi\bin\Debug\net8.0\Autofac.dll
+C:\Users\mchel\RiderProjects\1972-midi\EightBitSaxLounge.Midi\obj\Debug\net8.0\EightBitSaxLounge.Midi.csproj.AssemblyReference.cache
+C:\Users\mchel\RiderProjects\1972-midi\EightBitSaxLounge.Midi\obj\Debug\net8.0\EightBit.DFCBEEC3.Up2Date
