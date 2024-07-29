@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "4ESimeulKjVpi7uz4cKZu0sS11Mv/i0rwGZIh5OxfwdqUHHB6t/xqNZ2DFK+9TZdeU5BhEdRSXEzhq5mLg5bkw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\mchel\\RiderProjects\\1972-midi\\EightBitSaxLounge.Api\\EightBitSaxLounge.Api.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\mchel\\.nuget\\packages\\autofac\\8.0.0\\autofac.8.0.0.nupkg.sha512",
+    "C:\\Users\\mchel\\.nuget\\packages\\microsoft.aspnetcore.openapi\\8.0.3\\microsoft.aspnetcore.openapi.8.0.3.nupkg.sha512",
+    "C:\\Users\\mchel\\.nuget\\packages\\microsoft.openapi\\1.4.3\\microsoft.openapi.1.4.3.nupkg.sha512",
+    "C:\\Users\\mchel\\.nuget\\packages\\system.diagnostics.diagnosticsource\\7.0.2\\system.diagnostics.diagnosticsource.7.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}

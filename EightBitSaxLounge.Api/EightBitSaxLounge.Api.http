@@ -1,0 +1,34 @@
+@EightBitSaxLounge.Api_HostAddress = http://localhost:5246
+
+### Get all Ventris Dual Reverb Parameters
+GET {{EightBitSaxLounge.Api_HostAddress}}/ventrisdualreverbparameter
+Accept: application/json
+
+### Get a specific Ventris Dual Reverb Parameter by ID
+GET {{EightBitSaxLounge.Api_HostAddress}}/ventrisdualreverbparameter/{id}
+Accept: application/json
+
+### Create a new Ventris Dual Reverb Parameter
+POST {{EightBitSaxLounge.Api_HostAddress}}/ventrisdualreverbparameter
+Content-Type: application/json
+
+{
+  "Engine": "engine_value",
+  "Name": "name_value",
+  "Value": "value_value"
+}
+
+### Update an existing Ventris Dual Reverb Parameter
+PUT {{EightBitSaxLounge.Api_HostAddress}}/ventrisdualreverbparameter
+Content-Type: application/json
+
+{
+  "Id": "id_value",
+  "Engine": "engine_value",
+  "Name": "name_value",
+  "Value": "value_value"
+}
+
+### Delete a Ventris Dual Reverb Parameter by ID
+DELETE {{EightBitSaxLounge.Api_HostAddress}}/ventrisdualreverbparameter/{id}
+Accept: application/json

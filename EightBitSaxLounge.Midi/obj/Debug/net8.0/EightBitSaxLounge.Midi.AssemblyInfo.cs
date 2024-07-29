@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("EightBitSaxLounge.Midi")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b6c1029ffc4e0c1bf904094c2b92fcbd8f4b3fad")]
 [assembly: System.Reflection.AssemblyProductAttribute("EightBitSaxLounge.Midi")]
 [assembly: System.Reflection.AssemblyTitleAttribute("EightBitSaxLounge.Midi")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

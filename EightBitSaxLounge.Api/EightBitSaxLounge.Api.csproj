@@ -1,0 +1,18 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+    <PropertyGroup>
+        <TargetFramework>net8.0</TargetFramework>
+        <Nullable>enable</Nullable>
+        <ImplicitUsings>enable</ImplicitUsings>
+    </PropertyGroup>
+
+    <ItemGroup>
+        <PackageReference Include="Microsoft.AspNetCore.OpenApi" Version="8.0.3"/>
+    </ItemGroup>
+
+    <ItemGroup>
+      <ProjectReference Include="..\EightBitSaxLounge.Midi\EightBitSaxLounge.Midi.csproj" />
+      <ProjectReference Include="..\EightBitSaxLounge.Api.Contracts\EightBitSaxLounge.Api.Contracts.csproj" />
+    </ItemGroup>
+
+</Project>
